@@ -1,0 +1,12 @@
+('Total Revenue', '305,453,000', '281,724,000', '245,122,000', '211,915,000', '198,270,000')
+         510084 function calls (510036 primitive calls) in 1.910 seconds
+
+   Ordered by: cumulative time
+   List reduced from 546 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    1.738    1.738 S:\DSB4_Package_management.ID_1577671-1\src\ex04\financial_enhanced.py:22(request_url)
+        1    0.000    0.000    1.516    1.516 C:\Users\BeGraphics\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py:138(urlopen)
+        1    0.000    0.000    1.501    1.501 C:\Users\BeGraphics\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py:470(open)
+        1    0.000    0.000    1.501    1.501 C:\Users\BeGraphics\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py:499(_open)
+        2    0.000    0.000    1.501    0.750 C:\Users\BeGraphics\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py:459(_call_chain)
